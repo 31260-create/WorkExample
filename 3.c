@@ -2,7 +2,7 @@
 #include "b.h"
 
 void function_three() {
-          printf(" This is 3\n");
+          printf(" This is 23\n");
 
 
 
